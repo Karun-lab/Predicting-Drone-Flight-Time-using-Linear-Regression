@@ -6,6 +6,14 @@ This repository demonstrates how to use linear regression to predict drone fligh
 - Visualize data and the best-fit line.
 
 ## Getting Started
-1. Clone the repository.
+1. Clone the repository:
+```
+```
 2. Install dependencies:
-   pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
+3. Run program
+```
+
+```
