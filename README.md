@@ -8,3 +8,4 @@ This repository demonstrates how to use linear regression to predict drone fligh
 ## Getting Started
 1. Clone the repository.
 2. Install dependencies:
+   pip install -r requirements.txt
