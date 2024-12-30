@@ -8,6 +8,7 @@ This repository demonstrates how to use linear regression to predict drone fligh
 ## Getting Started
 1. Clone the repository:
 ```
+https://github.com/Karun-lab/Predicting-Drone-Flight-Time-using-Linear-Regression.git
 ```
 2. Install dependencies:
 ```
@@ -15,5 +16,5 @@ pip install -r requirements.txt
 ```
 3. Run program
 ```
-
+payload-prediction.py
 ```
