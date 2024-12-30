@@ -40,8 +40,8 @@ $$
 Where:
 - \( y \) is the dependent variable (the predicted value).
 - \( x \) is the independent variable (the input feature).
-- \( \beta_0 \) is the intercept (the value of \( y \) when \( x = 0 \)).
-- \( \beta_1 \) is the slope (the change in \( y \) for a unit change in \( x \)).
+- \( \beta_0 ) is the intercept (the value of \( y \) when \( x = 0 \)).
+- \( \beta_1 ) is the slope (the change in \( y \) for a unit change in \( x \)).
 
 ## Least Squares Method for Linear Regression
 
